@@ -1,0 +1,14 @@
+{
+  "started_at": "2026-10-19T01:20:25.099694+00:00",
+  "finished_at": "2026-10-19T01:20:25.543373+00:00",
+  "duration_seconds": 0.444,
+  "catalogue_pages_processed": 3,
+  "discovered_books": 60,
+  "detail_pages_processed": 60,
+  "pages_fetched": 0,
+  "cache_hits": 63,
+  "valid_records": 60,
+  "invalid_records": 0,
+  "failed_pages": 0,
+  "failed_page_urls": []
+}
